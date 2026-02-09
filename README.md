@@ -1,16 +1,21 @@
-## Hi there 👋
+<img align="right" width="400" height="400" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
 
-<!--
-**EvansHenriq/EvansHenriq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Welcome!
+## I'm Evandro! Let me present a little about myself :D
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mobile Full Stack focused in Flutter | Software engineer :robot:
+
+Lover of Technology and coding :heart:
+
+
+
+## About me 
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EvansHenriq)](https://github.com/EvansHenriq)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evandro-henrique-mobile/)](https://www.linkedin.com/in/evandro-henrique-mobile/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evandrohenriquebr@gmail.com)](mailto:evandrohenriquebr@gmail.com)
+
+
+- Thanks for visiting. 
+- Enjoy it!! o/
