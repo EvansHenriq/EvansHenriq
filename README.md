@@ -1,21 +1,45 @@
-<img align="right" width="400" height="400" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
+<img align="right" width="380" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"/>
 
+# Hi, I'm Evandro 👋  
+**Flutter Developer | Mobile Software Engineer**
 
-# Welcome!
-## I'm Evandro! Let me present a little about myself :D
+Flutter Developer with **5+ years of experience** building **production-ready, high-performance mobile applications**, focused on **clean architecture, scalability, and system integration**.
 
-Mobile Full Stack focused in Flutter | Software engineer :robot:
+I currently work with Flutter and Dart to deliver reliable mobile solutions used in real-world production environments, with a strong emphasis on **performance optimization**, **maintainable code**, and **modern mobile development practices**.
 
-Lover of Technology and coding :heart:
+---
 
+## 🔧 Tech Stack
 
+- **Flutter & Dart** – production mobile applications  
+- **REST APIs** – backend integration  
+- **Firebase** – authentication, backend services, push notifications  
+- **State Management** – Provider, MobX, ValueNotifier  
+- **Clean Architecture / MVVM**  
+- **SQLite** – offline-first mobile apps  
+- **Git & CI/CD**  
+- **Automated Testing** – unit and widget tests  
 
-## About me 
+---
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EvansHenriq)](https://github.com/EvansHenriq)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evandro-henrique-mobile/)](https://www.linkedin.com/in/evandro-henrique-mobile/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evandrohenriquebr@gmail.com)](mailto:evandrohenriquebr@gmail.com)
+## 🚀 What I Do
 
+- Build **scalable Flutter applications** for real-world use  
+- Optimize app **performance and stability**  
+- Design **clean and maintainable architectures**  
+- Collaborate with teams using **Agile/Scrum** methodologies  
+- Deliver features focused on **user experience and business impact**
 
-- Thanks for visiting. 
-- Enjoy it!! o/
+---
+
+## 🌍 Open to Opportunities
+
+I'm open to **fully remote international opportunities** as a Flutter Developer, especially with teams that value **engineering quality**, **clean code**, and **high-performance mobile applications**.
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evandro-henrique-mobile/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/EvansHenriq)
+[![Email](https://img.shields.io/badge/Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:evandrohenriquebr@gmail.com)
