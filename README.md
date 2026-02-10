@@ -3,43 +3,37 @@
 # Hi, I'm Evandro 👋  
 **Flutter Developer | Mobile Software Engineer**
 
-Flutter Developer with **5+ years of experience** building **production-ready, high-performance mobile applications**, focused on **clean architecture, scalability, and system integration**.
+Flutter Developer with **5+ years of experience** building **reliable, production-ready mobile applications**, with a strong focus on **code quality**, **clean architecture**, and **long-term maintainability**.
 
-I currently work with Flutter and Dart to deliver reliable mobile solutions used in real-world production environments, with a strong emphasis on **performance optimization**, **maintainable code**, and **modern mobile development practices**.
+I currently work as a Flutter Developer, collaborating with teams to design and deliver mobile solutions used in real production environments.
 
 ---
 
 ## 🔧 Tech Stack
-
-- **Flutter & Dart** – production mobile applications  
-- **REST APIs** – backend integration  
-- **Firebase** – authentication, backend services, push notifications  
+- **Flutter & Dart**  
+- **REST APIs & Backend Integration**  
+- **Firebase Services**  
 - **State Management** – Provider, MobX, ValueNotifier  
 - **Clean Architecture / MVVM**  
-- **SQLite** – offline-first mobile apps  
-- **Git & CI/CD**  
-- **Automated Testing** – unit and widget tests  
+- **SQLite** – offline support  
+- **Git, CI/CD & Automated Testing**
 
 ---
 
-## 🚀 What I Do
-
-- Build **scalable Flutter applications** for real-world use  
-- Optimize app **performance and stability**  
-- Design **clean and maintainable architectures**  
-- Collaborate with teams using **Agile/Scrum** methodologies  
-- Deliver features focused on **user experience and business impact**
+## 🧩 Engineering Focus
+- Clean and maintainable Flutter codebases  
+- Scalable mobile architectures  
+- Performance-conscious development  
+- Collaboration in Agile/Scrum teams
 
 ---
 
-## 🌍 Open to Opportunities
-
-I'm open to **fully remote international opportunities** as a Flutter Developer, especially with teams that value **engineering quality**, **clean code**, and **high-performance mobile applications**.
+## 🌍 Remote Opportunities
+Open to **fully remote international opportunities**, particularly with teams that value clean code, technical excellence, and sustainable engineering practices.
 
 ---
 
-## 📫 Connect with Me
-
+## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evandro-henrique-mobile/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/EvansHenriq)
 [![Email](https://img.shields.io/badge/Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:evandrohenriquebr@gmail.com)
