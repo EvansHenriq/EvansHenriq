@@ -1,39 +1,18 @@
-<img align="right" width="380" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"/>
+<img align="right" width="400" height="400"
+src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
+# Welcome!
+## I'm Evandro! Let me present a little about myself :D
+Mobile Full-Stack focused in Flutter | Software engineer :robot:
+Lover of Technology and coding :heart:
+## About me
 
-# Hi, I'm Evandro 👋  
-**Flutter Developer | Mobile Software Engineer**
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-
+square&logo=Github&logoColor=white&link=https://github.com/EvansHenriq)]
 
-Flutter Developer with **5+ years of experience** building **reliable, production-ready mobile applications**, with a strong focus on **code quality**, **clean architecture**, and **long-term maintainability**.
+(https://github.com/EvansHenriq)
 
-I currently work as a Flutter Developer, collaborating with teams to design and deliver mobile solutions used in real production environments.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-
+square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evandro-henrique-mobile/)](https://www.linkedin.com/in/evandro-henrique-mobile/)
 
----
-
-## 🔧 Tech Stack
-- **Flutter & Dart**  
-- **REST APIs & Backend Integration**  
-- **Firebase Services**  
-- **State Management** – Provider, MobX, ValueNotifier  
-- **Clean Architecture / MVVM**  
-- **SQLite** – offline support  
-- **Git, CI/CD & Automated Testing**
-
----
-
-## 🧩 Engineering Focus
-- Clean and maintainable Flutter codebases  
-- Scalable mobile architectures  
-- Performance-conscious development  
-- Collaboration in Agile/Scrum teams
-
----
-
-## 🌍 Remote Opportunities
-Open to **fully remote international opportunities**, particularly with teams that value clean code, technical excellence, and sustainable engineering practices.
-
----
-
-## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evandro-henrique-mobile/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/EvansHenriq)
-[![Email](https://img.shields.io/badge/Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:evandrohenriquebr@gmail.com)
+- Thanks for visiting.
+- Enjoy it!! o/
